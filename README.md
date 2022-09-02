@@ -6,10 +6,10 @@
 ![Главная](https://github.com/PavelAxenov/My-blog/blob/main/My_blog_frontend/images/preview.jpg)
 
 ## Авторизация
-![Авторизация](https://github.com/PavelAxenov/My_blog/My_blog_frontend/raw/main/src/images/readme/login.jpg)
+![Авторизация](https://github.com/PavelAxenov/My-blog/blob/main/My_blog_frontend/images/login.jpg)
 
 ## Регистрация
-![Регистрация](https://github.com/PavelAxenov/My_blog/My_blog_frontend/raw/main/src/images/readme/register.jpg)
+![Регистрация](https://github.com/PavelAxenov/My-blog/blob/main/My_blog_frontend/images/register.jpg)
 
 ## Стек:
 * React
