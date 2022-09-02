@@ -3,7 +3,7 @@
 ### Проект представляет собой блог для создания, публикации и просмотра статей. Как своих так и других пользователей.
 
 ## Центральная страница с превью
-![Главная](https://github.com/PavelAxenov/My_blog/My_blog_frontend/raw/main/src/images/readme/preview.jpg)
+![Главная](https://github.com/PavelAxenov/My_blog/My_blog_frontend/images/readme/preview.jpg)
 
 ## Авторизация
 ![Авторизация](https://github.com/PavelAxenov/My_blog/My_blog_frontend/raw/main/src/images/readme/login.jpg)
